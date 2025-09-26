@@ -1,4 +1,5 @@
-# Go Do Soemthing.
+# Go Do Something.
+![Hexagonal Architecture](./images/Arch_Pic.png)
 
 This is a small Go Cli application where I just tried to engrave the **Hexagonal Architecture (aka Ports & Adapters)**  pattern into my brain.It contsist of the...
 
